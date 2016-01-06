@@ -128,7 +128,7 @@ public class RailFence {
 	}
 		
 	public static void main(String[] args) throws Exception{	
-		  File file = new File("4grams.txt");
+		  File file = new File("decryptmessage.txt");
 		  
 		  //System.out.println("Enter file name: ");
 		  //file = console.nextLine();	  
